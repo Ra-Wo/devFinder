@@ -1,0 +1,28 @@
+.light {
+   color: var(--black-text);
+   background-color: val(--main);
+}
+
+
+.dark {
+   color: var(--color-dark-text);
+   background: var(--dark-blue-background);
+}
+
+.dark-DataCard {
+   background-color: var(--main-dark);
+   color: var(--color-dark-text);
+}
+
+.light-DataCard {
+   background-color: var(--main);
+   color: var(--black-text);
+}
+
+.light-repoAndFollow {
+   background-color: var(--background);
+}
+
+.dark-repoAndFollow {
+   background-color: var(--dark-blue-background);
+}
