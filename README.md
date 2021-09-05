@@ -1,1 +1,1 @@
-# devFinder
+# GitHub user search app
